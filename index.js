@@ -14,8 +14,8 @@ img.onload=function(){
   /// step 2
   octx.drawImage(oc,0,0,oc.width * 0.5,oc.height * 0.5);
 
-  canvas.width=100;
-  canvas.height=130;
+  canvas.width=500;
+  canvas.height=530;
   ctx.drawImage(oc,0,0,oc.width * 0.5, oc.height * 0.5,
                 0,0,canvas.width,canvas.height);
 }
