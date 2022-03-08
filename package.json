@@ -1,14 +1,15 @@
 {
   "dependencies": {
-    "canvas": "^2.9.0"
+    "canvas": "^2.9.0",
+    "image-size": "^1.0.1"
   },
   "name": "pixalation-solving",
-  "description": "��#\u0000 \u0000p\u0000i\u0000x\u0000a\u0000l\u0000a\u0000t\u0000i\u0000o\u0000n\u0000-\u0000s\u0000o\u0000l\u0000v\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
   },
   "repository": {
     "type": "git",
